@@ -58,7 +58,7 @@ These outputs enable quick, clear, and actionable insights for text-level sentim
 
 ## 📝 **Model Loss Per Steps**
 
-<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="max-width: 75%; width: 500px; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="width: 900px; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
 
 ---
