@@ -92,13 +92,6 @@ These enhancements aim to make the app more versatile, efficient, and impactful 
 
 ---
 
-## 💰 **Economic Cost Estimation**
-
-- **Development Costs**: Minimal, as this project leverages open-source libraries.  
-- **Hosting Costs**: Free on **Streamlit Cloud** for low-traffic apps. Paid options available for higher usage.  
-- **Maintenance Costs**: Requires occasional updates to libraries and bug fixes.
-
----
 
 ## 📧 **Contact**
 
