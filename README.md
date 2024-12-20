@@ -52,6 +52,14 @@ These technologies collectively make the Sentiment Analyzer app a versatile, eff
 These outputs enable quick, clear, and actionable insights for text-level sentiment analysis. 🎯
 
 ---
+## 🌟 **WordCloud Examples**
+
+<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_word.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+
+<img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
+
+
+---
 
 ## 🌟 **Usage Examples**
 
