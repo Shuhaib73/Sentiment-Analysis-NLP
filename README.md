@@ -56,7 +56,9 @@ These outputs enable quick, clear, and actionable insights for text-level sentim
 
 <img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_word.png" alt="Generated Image 1" style="max-width: 35%; height: 250px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
-## 📝 **Model Accuracy & Model Loss Per Steps**
+## 📝 **Model Accuracy & Model Loss Per Epoch**
+
+   -- Accuracy: 88%
 
 <img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
 
