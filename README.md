@@ -19,7 +19,7 @@ Welcome to the **Sentiment Analyzer Web App**! 🎉 Discover a powerful and intu
 - **NLTK (Natural Language Toolkit)**: Utilized for preprocessing tasks like text tokenization and stopword removal.
 - **LSTM (Long Short-Term Memory**: A type of recurrent neural network (RNN) architecture used for sequence prediction, particularly effective in natural language processing (NLP) tasks.
 - **RNN (Recurrent Neural Network)**: A class of neural networks suitable for sequential data, useful in tasks like sentiment analysis and text generation.
-- **GloVe (Global Vectors for Word Representation)**: A popular algorithm for generating pre-trained word embeddings, often used in NLP tasks to represent words in dense vector space.
+- **GloVe (Global Vectors for Word Representation)**: Used in this project to provide pre-trained word embeddings, enabling us to represent words in dense vector space for more effective sentiment analysis.
 - **TensorFlow**: Leveraged in this project as the primary framework for building and deploying the deep learning model for sentiment classification.
 - **Keras**: A high-level neural networks API, Used in combination with TensorFlow to simplify the construction and training of deep learning models, enabling efficient sentiment prediction.
 - **Docker**: Utilized in this project to create a containerized environment for the app, ensuring consistent development and deployment across different environments.
