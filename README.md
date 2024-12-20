@@ -47,7 +47,7 @@ These technologies collectively make the Sentiment Analyzer app a versatile, eff
 2. **Sentiment Scores**:  
    - For single text analysis, the app provides detailed numerical scores, including the degree of positivity, negativity, neutrality, and a compound score for sentiment intensity.  
 
-These outputs enable quick, clear, and actionable insights for both single text-level sentiment analysis. 🎯
+These outputs enable quick, clear, and actionable insights for text-level sentiment analysis. 🎯
 
 ---
 
