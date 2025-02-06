@@ -12,6 +12,7 @@ Welcome to the **Sentiment Analyzer Web App**! 🎉 Discover a powerful and intu
 
 ---
 
+
 ## 🛠️ **Technologies Used**
 
 - **Python** 🐍: The core programming language that powers the app.  
