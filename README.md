@@ -2,6 +2,7 @@
 
 Welcome to the **Sentiment Analyzer Web App**! 🎉 Discover a powerful and intuitive tool for real-time sentiment analysis. Whether you're a researcher, data analyst, or business professional, this app empowers you to classify sentiments in text or datasets effortlessly. Gain actionable insights and visualize trends to drive smarter decisions. 🚀
 
+
 ### *** Note: To access the Web Application Kindly visit my portfolio website or you can contact me through LinkedIn/Mail.***
 
 ## 📖 **Features**
