@@ -13,7 +13,6 @@ Welcome to the **Sentiment Analyzer Web App**! 🎉 Discover a powerful and intu
 
 ---
 
-
 ## 🛠️ **Technologies Used**
 
 - **Python** 🐍: The core programming language that powers the app.  
@@ -33,7 +32,6 @@ Welcome to the **Sentiment Analyzer Web App**! 🎉 Discover a powerful and intu
 - **Matplotlib/Seaborn**: Used for creating impactful visualizations that simplify data insights.  
 
 These technologies collectively make the Sentiment Analyzer app a versatile, efficient, and easy-to-use tool for professionals and researchers alike! 🚀
-
 
 ### Input Options  
 1. **Single Text Analysis**:  
@@ -63,7 +61,6 @@ These outputs enable quick, clear, and actionable insights for text-level sentim
    -- Accuracy: 88%
 
 <img src="https://github.com/Shuhaib73/Sentiment-Analysis-NLP/blob/prj_branch/lstm_res.png" alt="Generated Image 1" style="width: 900px; height: 280px; border: 2px solid #ccc; border-radius: 8px; display: inline-block; margin-right: 10px;">
-
 
 ---
 
@@ -103,7 +100,6 @@ These enhancements aim to make the app more versatile, efficient, and impactful 
 
 ---
 
-
 ## 📧 **Contact**
 
 For questions, feedback, or contributions, please contact:  
@@ -112,4 +108,3 @@ For questions, feedback, or contributions, please contact:
 **LinkedIn**: https://www.linkedin.com/in/mohamedshuhaib/
 
 ---
-
